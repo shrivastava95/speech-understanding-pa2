@@ -5,3 +5,5 @@ datasets/kathbath/*.tar
 datasets/voxelceleb1h/data/*
 datasets/voxelceleb1h/*.zip
 datasets/voxelceleb1h/*.tar
+
+datasets/librispeech/LibriMix/storage_dir/*
