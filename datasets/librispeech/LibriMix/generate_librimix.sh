@@ -56,10 +56,7 @@ function wham() {
 	fi
 }
 
-LibriSpeech_dev_clean &
 LibriSpeech_test_clean &
-LibriSpeech_clean100 &
-LibriSpeech_clean360 &
 wham &
 
 wait
