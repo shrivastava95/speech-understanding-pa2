@@ -1,0 +1,5 @@
+pip install light-the-torch
+ltt install --pytorch-computation-backend=cu111 torch torchvision torchaudio
+pip install -r requirements.txt
+
+
