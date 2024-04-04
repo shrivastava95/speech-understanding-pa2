@@ -7,6 +7,9 @@ datasets/voxceleb1h/*.zip
 datasets/voxceleb1h/*.tar
 datasets/voxceleb1h/*.gz
 
+datasets/voxceleb1h_subset/dev*
+datasets/voxceleb1h_subset/dev_plus_test*
+
 q1/checkpoints/*.pth
 
 datasets/librispeech/LibriMix/storage_dir/*
