@@ -2,8 +2,9 @@ datasets/kathbath/data/*
 datasets/kathbath/*.zip
 datasets/kathbath/*.tar
 
-datasets/voxelceleb1h/data/*
-datasets/voxelceleb1h/*.zip
-datasets/voxelceleb1h/*.tar
+datasets/voxceleb1h/data/*
+datasets/voxceleb1h/*.zip
+datasets/voxceleb1h/*.tar
+datasets/voxceleb1h/*.gz
 
 datasets/librispeech/LibriMix/storage_dir/*
